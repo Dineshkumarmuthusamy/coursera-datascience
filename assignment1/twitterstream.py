@@ -6,13 +6,14 @@ import json
 
 # Go to http://dev.twitter.com and create an app.
 # The consumer key and secret will be generated for you after
-consumer_key = "xOnewLAMiaMSySHuCyPFQ"
-consumer_secret = "NDHf1tjm9sq7NwRxwqonxJoMi1l0yGsEn1xfRVvrYGg"
+consumer_key = "rpdKRjSRtP2EDIYcnu3JJKZeO"
+consumer_secret = "5PIzxsanXkx1oCYw87uxPOTCkEKTxvlqS007hk5Lh45XxElNiR
+"
 
 # After the step above, you will be redirected to your app's page.
 # Create an access token under the the "Your access token" section
-access_token_key = "159536126-P9xgwERWI1Y8sb6obMAcxAwnTZG9c0bF0PwwoARX"
-access_token_secret = "UHZX3rIP3gtxjwpzD6BzEqzvskonoLNKcNMd0KhL9A"
+access_token_key = "205775111-vTtMh57Y6yvd3q6nd2VAFvfPcN7KbVb7AxBjOOND"
+access_token_secret = "	eIRBITNEFMn9q76605JGqLHvxixfMS5LEtgYkyQIAnCQ6"
 
 _debug = 0
 
